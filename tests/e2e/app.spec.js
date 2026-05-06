@@ -41,3 +41,4 @@ test('End-to-end user workflow', async () => {
     // Close the app
     await electronApp.close();
 });
+//done
